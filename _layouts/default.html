@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <title>{{ page.title }} - {{ site.title }}</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    {%- if site.google_analytics -%}
+      {% include head-custom-google-analytics.html %}
+    {%- endif -%}
+    {% include head-custom.html %}
+    <link rel="stylesheet" href="{{ '/assets/main.css' | relative_url }}">
+  </head>
+  <body>
+    <div class="wrapper">
+      <header class="site-header">
+        <div class="container">
+          <h1 class="site-title">
+            <a href="{{ site.baseurl }}/">{{ site.title }}</a>
+          </h1>
+          <p class="site-description">{{ site.description }}</p>
+          <!-- Navigation Menu -->
+          <nav class="site-nav">
+            <ul>
+              <li><a href="{{ site.baseurl }}/">Home</a></li>
+              <li><a href="{{ site.baseurl }}/about.html">About</a></li>
+              <li><a href="{{ site.baseurl }}/projects.html">Projects</a></li>
+              <li><a href="{{ site.baseurl }}/publications.html">Publications</a></li>
+              <li><a href="{{ site.baseurl }}/contact.html">Contact</a></li>
+            </ul>
+          </nav>
+        </div>
+      </header>
+      
+      <main class="content">
+        {{ content }}
+      </main>
+      
+      <footer class="site-footer">
+        <div class="container">
+          <p>&copy; {{ site.time | date: "%Y" }} {{ site.title }}. All rights reserved.</p>
+        </div>
+      </footer>
+    </div>
+  </body>
+</html>
