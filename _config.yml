@@ -2,24 +2,50 @@
 
 # Site settings
 title: "Abhigyan Majumdar"
-description: "Dynamic Modeling | Optimal Control | Supervisory Controls | Hardware-in-the-Loop"
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://abhigyan9.github.io" # Replace with your GitHub Pages URL
+description: "PhD in System Dynamics & Controls at UC Davis | Research, Projects & Publications"
+url: "https://abhigyan9.github.io"  # Replace with your actual domain if different
+baseurl: ""                         # Set to "/repo-name" if deploying as a project site
 
-# Theme settings
-remote_theme: pages-themes/cayman@v0.2.0
-plugins:
-- jekyll-remote-theme
+# Use the Minimal Mistakes theme as a remote theme
+remote_theme: "mmistakes/minimal-mistakes@4.24.0"
+skin: air
+
+# Build settings
+markdown: kramdown
 
 # Author settings
 author:
   name: "Abhigyan Majumdar"
   email: "abmajumdar@ucdavis.edu"
+  twitter: "abhigyan9"
+  linkedin: "abhigyanmajumdar"
+  github: "abhigyan9"
 
-# Social links (update with your actual usernames if available)
-#twitter_username: "your_twitter_username"
-github_username: "abhigyan9"
-linkedin_username: "abhigyanmajumdar"
+# Navigation pages (adjust as needed)
+header_pages:
+  - index.md
+  - projects.md
+  - publications.md
 
-# Build settings
-markdown: kramdown
+# Collections for individual project and publication pages (optional)
+collections:
+  projects:
+    output: true
+    permalink: /projects/:name/
+  publications:
+    output: true
+    permalink: /publications/:name/
+
+# Plugins
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+  - jekyll-sitemap
+
+# Files and folders to exclude from the build
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - README.md
+  - node_modules
+  - vendor
