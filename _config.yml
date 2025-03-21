@@ -40,6 +40,7 @@ plugins:
   - jekyll-feed
   - jekyll-seo-tag
   - jekyll-sitemap
+  - jekyll-include-cache
 
 # Files and folders to exclude from the build
 exclude:
