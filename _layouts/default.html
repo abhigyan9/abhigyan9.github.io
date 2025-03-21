@@ -4,32 +4,28 @@
     <meta charset="utf-8">
     <title>{{ page.title }} - {{ site.title }}</title>
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    {% if site.google_analytics %}
-      {% include head-custom-google-analytics.html %}
-    {% endif %}
-    {% include head-custom.html %}
     <link rel="stylesheet" href="{{ '/assets/main.css' | relative_url }}">
   </head>
   <body>
-    <header class="page-header" role="banner">
-    <h1 class="project-name">{{ page.title | default: site.title }}</h1>
-    <h2 class="project-tagline">{{ page.description | default: site.description }}</h2>
-
-    <a href="{{ site.baseurl }}/" class="btn">Home</a>
-    <a href="{{ site.baseurl }}/about.html" class="btn">About</a>
-    <a href="{{ site.baseurl }}/projects.html" class="btn">Projects</a>
-    <a href="{{ site.baseurl }}/publications.html" class="btn">Publications</a>
-    <a href="{{ site.baseurl }}/contact.html" class="btn">Contact</a>
+    <header>
+      <h1>{{ site.title }}</h1>
+      <p>{{ site.description }}</p>
+      <!-- Custom nav bar with “buttons” -->
+      <nav>
+        <a class="nav-button" href="{{ site.baseurl }}/">Home</a>
+        <a class="nav-button" href="{{ site.baseurl }}/about.html">About</a>
+        <a class="nav-button" href="{{ site.baseurl }}/projects.html">Projects</a>
+        <a class="nav-button" href="{{ site.baseurl }}/publications.html">Publications</a>
+        <a class="nav-button" href="{{ site.baseurl }}/contact.html">Contact</a>
+      </nav>
     </header>
 
-    <main class="content">
-    {{ content }}
+    <main>
+      {{ content }}
     </main>
 
-    <footer class="site-footer">
-    <div class="container">
-        <p>&copy; {{ site.time | date: "%Y" }} {{ site.title }}. All rights reserved.</p>
-    </div>
+    <footer>
+      &copy; {{ site.time | date: "%Y" }} {{ site.title }}
     </footer>
   </body>
 </html>
