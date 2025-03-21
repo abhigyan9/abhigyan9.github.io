@@ -23,5 +23,3 @@ linkedin_username: "abhigyanmajumdar"
 
 # Build settings
 markdown: kramdown
-plugins:
-  - jekyll-feed
