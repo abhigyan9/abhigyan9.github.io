@@ -11,27 +11,25 @@
     <link rel="stylesheet" href="{{ '/assets/main.css' | relative_url }}">
   </head>
   <body>
-    <div class="wrapper">
-      <header class="page-header" role="banner">
-        <h1 class="project-name">{{ page.title | default: site.title }}</h1>
-        <h2 class="project-tagline">{{ page.description | default: site.description }}</h2>
+    <header class="page-header" role="banner">
+    <h1 class="project-name">{{ page.title | default: site.title }}</h1>
+    <h2 class="project-tagline">{{ page.description | default: site.description }}</h2>
 
-        <a href="{{ site.baseurl }}/" class="btn">Home</a>
-        <a href="{{ site.baseurl }}/about.html" class="btn">About</a>
-        <a href="{{ site.baseurl }}/projects.html" class="btn">Projects</a>
-        <a href="{{ site.baseurl }}/publications.html" class="btn">Publications</a>
-        <a href="{{ site.baseurl }}/contact.html" class="btn">Contact</a>
-      </header>
+    <a href="{{ site.baseurl }}/" class="btn">Home</a>
+    <a href="{{ site.baseurl }}/about.html" class="btn">About</a>
+    <a href="{{ site.baseurl }}/projects.html" class="btn">Projects</a>
+    <a href="{{ site.baseurl }}/publications.html" class="btn">Publications</a>
+    <a href="{{ site.baseurl }}/contact.html" class="btn">Contact</a>
+    </header>
 
-      <main class="content">
-        {{ content }}
-      </main>
+    <main class="content">
+    {{ content }}
+    </main>
 
-      <footer class="site-footer">
-        <div class="container">
-          <p>&copy; {{ site.time | date: "%Y" }} {{ site.title }}. All rights reserved.</p>
-        </div>
-      </footer>
+    <footer class="site-footer">
+    <div class="container">
+        <p>&copy; {{ site.time | date: "%Y" }} {{ site.title }}. All rights reserved.</p>
     </div>
+    </footer>
   </body>
 </html>
