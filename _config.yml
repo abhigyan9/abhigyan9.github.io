@@ -2,7 +2,7 @@
 
 # Site settings
 title: "Abhigyan Majumdar"
-description: "PhD Student in System Dynamics & Controls at UC Davis. Research focused on probabilistic globally linear modeling, stochastic optimal control schemes, and advanced control systems."
+description: "Dynamic Modeling | Optimal Control | Supervisory Controls | Hardware-in-the-Loop"
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://abhigyan9.github.io" # Replace with your GitHub Pages URL
 
@@ -15,7 +15,7 @@ author:
   email: "abmajumdar@ucdavis.edu"
 
 # Social links (update with your actual usernames if available)
-twitter_username: "your_twitter_username"
+#twitter_username: "your_twitter_username"
 github_username: "abhigyan9"
 linkedin_username: "abhigyanmajumdar"
 
