@@ -8,7 +8,7 @@ baseurl: ""                         # Set to "/repo-name" if deploying as a proj
 
 # Use the Minimal Mistakes theme as a remote theme
 remote_theme: "mmistakes/minimal-mistakes@4.24.0"
-skin: air
+minimal_mistakes_skin: "air"
 
 # Build settings
 markdown: kramdown
