@@ -4,8 +4,6 @@ title: "Projects"
 permalink: /projects/
 ---
 
-# Projects
-
 ## Energy Optimal Dual Stage Adaptive Cruise Controller for an Electric Vehicle
 - **Description:** Designed a Non-linear Model Predictive Controller (NMPC) to optimize energy efficiency and passenger comfort in a longitudinal adaptive cruise controller. Validated the real-time feasibility using MATLAB’s fmincon solver.
 - **Key Takeaways:** Developed a robust control strategy ensuring energy efficiency, comfort, and safety.

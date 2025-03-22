@@ -4,8 +4,6 @@ title: "Publications"
 permalink: /publications/
 ---
 
-# Publications
-
 ## Analytical Study of Phase Change Heat Transfer in Biological Tissue using Coordinate Transformation Technique during Cryosurgery
 - **Summary:** An in-depth analysis of phase change heat transfer in biological tissues during cryosurgery employing coordinate transformation techniques.
 
