@@ -3,8 +3,8 @@ name: Deploy site
 on:
   push:
     branches:
-      - master
       - main
+      - dev-alfolio
     paths:
       - "assets/**"
       - "_sass/**"
