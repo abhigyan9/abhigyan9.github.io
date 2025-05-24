@@ -7,14 +7,9 @@ subtitle: PhD Candidate in System Dynamics and Controls at the University of Cal
 
 profile:
   align: left
-  # image: my_pic1.jpg
+  image: my_pic1.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <img
-      src="{{ '/assets/img/my_pic1.jpg' | relative_url }}"
-      alt="my picture"
-      style="max-width:20%; height:auto;"
-    />
     <p>Davis, California</p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"

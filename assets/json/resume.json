@@ -2,9 +2,8 @@
   "basics": {
     "name": "Abhigyan Majumdar",
     "label": "PhD Candidate in Mechanical & Aerospace Engineering",
-    "image": "",
+    "image": "my_pic1.jpg",
     "email": "abmajumdar@ucdavis.edu",
-    "phone": "+1 (530) 231-0887",
     "url": "https://abhigyan9.github.io/",
     "summary": "PhD student at University of California, Davis specializing in System Dynamics & Controls. Working on physics- and learning-based system modeling and controller design for robotics, autonomous driving, vehicle dynamics, and energy storage.",
     "location": {
