@@ -1,200 +1,277 @@
 {
   "basics": {
-    "name": "Albert Einstein",
-    "label": "Scientist",
+    "name": "Abhigyan Majumdar",
+    "label": "PhD Candidate in Mechanical & Aerospace Engineering",
     "image": "",
-    "email": "albert@einstein.de",
-    "phone": "(912) 123-4567",
-    "url": "https://alshedivat.github.io/al-folio/",
-    "summary": "A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time",
+    "email": "abmajumdar@ucdavis.edu",
+    "phone": "+1 (530) 231-0887",
+    "url": "https://abhigyan9.github.io/",
+    "summary": "PhD student at University of California, Davis specializing in System Dynamics & Controls. Working on physics- and learning-based system modeling and controller design for robotics, autonomous driving, vehicle dynamics, and energy storage.",
     "location": {
-      "address": "2712 Broadway St",
-      "postalCode": "CA 94115",
-      "city": "San Francisco",
+      "address": "",
+      "postalCode": "",
+      "city": "Davis",
       "countryCode": "US",
       "region": "California"
     },
     "profiles": [
       {
-        "network": "Twitter",
-        "username": "AlbertEinstein",
-        "url": "https://twitter.com/AlbertEinstein"
+        "network": "LinkedIn",
+        "username": "abhigyanmajumdar",
+        "url": "https://www.linkedin.com/in/abhigyanmajumdar"
+      },
+      {
+        "network": "GitHub",
+        "username": "abhigyan9",
+        "url": "https://github.com/abhigyan9"
       }
     ]
   },
   "work": [
     {
-      "name": "Institute for Advanced Study, Princeton University",
-      "position": "Professor of Theoretical Physics",
-      "url": "https://example.com",
-      "startDate": "1933-01-01",
-      "endDate": "1955-01-01",
-      "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
-      "highlights": ["Relativity"]
-    }
-  ],
-  "volunteer": [
+      "name": "University of California, Davis CORE Lab",
+      "position": "Graduate Student Researcher",
+      "url": "https://core.ucdavis.edu/",
+      "startDate": "2024-05-01",
+      "endDate": null,
+      "summary": "Developing novel data-driven Koopman operator identification algorithms for general nonlinear dynamic systems; predictive thermal derating for EV drive units; supervising and mentoring master's students on physics-based EV thermal management models; enhancing drive-by-wire and perception capabilities for autonomous vehicle research.",
+      "highlights": [
+        "Probabilistic Koopman Operator identification",
+        "Predictive safety filtering for thermal derating of EV systems",
+        "Supervision of graduate student research"
+      ]
+    },
     {
-      "organization": "People's Climate March",
-      "location": "Zurich, Switzerland",
-      "position": "Lead Organizer",
-      "url": "https://example.com",
-      "startDate": "2014-04-01",
-      "endDate": "2015-07-01",
-      "summary": "Lead organizer for the New York City branch of the People's Climate March, the largest climate march in history.",
-      "highlights": ["Awarded 'Climate Hero' award by Greenpeace for my efforts organizing the march.", "Men of the year 2014 by Time magazine"]
+      "name": "UC Davis EcoCAR Team",
+      "position": "Propulsion Controls & Modeling Lead",
+      "url": "https://ecocar.ucdavis.edu/",
+      "startDate": "2022-09-01",
+      "endDate": "2024-08-01",
+      "summary": "Led a multidisciplinary team of 15 undergraduates to overhaul the Cadillac LYRIQ powertrain for the EcoCAR EV Challenge; designed and implemented propulsion supervisory controller workflows in MIL, HIL, and VIL environments; ensured functional safety via hazard analysis, requirements traceability, and multi-level testing.",
+      "highlights": [
+        "First Place Propulsion Controls & Modeling Presentation Award, EcoCAR Year 2",
+        "Over the HIL Award for best HIL setup across 15 teams"
+      ]
+    },
+    {
+      "name": "Farasis Energy, Inc.",
+      "position": "Battery Modeling Intern",
+      "url": "https://www.farasis.com/",
+      "startDate": "2022-06-01",
+      "endDate": "2022-09-01",
+      "summary": "Implemented reduced-order and coupled electro-thermal simulations of Li-ion battery packs using ANSYS Fluent and TwinBuilder; developed controls-oriented system models to evaluate fast-charging and thermal management algorithms; presented findings at SAE WCX 2023 (DOI: 10.4271/2023-01-0931).",
+      "highlights": [
+        "Controls-oriented reduced-order battery models",
+        "SAE WCX 2023 presentation"
+      ]
+    },
+    {
+      "name": "Bio-Heat Transfer Laboratory, NIT Rourkela",
+      "position": "Undergraduate Researcher",
+      "url": "https://nitrkl.ac.in/",
+      "startDate": "2020-08-01",
+      "endDate": "2021-05-01",
+      "summary": "Developed combined analytical-numerical solutions for 1D phase-change heat transfer in living tissue during cryosurgery; presented at the 5-6th Thermal and Fluids Engineering Conference (DOI: 10.1615/TFEC2021.bio.036282).",
+      "highlights": [
+        "Phase-change heat transfer modeling",
+        "Conference presentation"
+      ]
     }
   ],
   "education": [
     {
-      "institution": "University of Zurich, Zurich, Switzerland",
-      "location": "Zurich, Switzerland",
-      "url": "https://www.uzh.ch/",
-      "area": "Software Development",
+      "institution": "University of California, Davis",
+      "location": "Davis, California, US",
+      "url": "https://mae.ucdavis.edu/",
+      "area": "Mechanical & Aerospace Engineering",
       "studyType": "PhD",
-      "startDate": "1905-01-01",
-      "endDate": "1905-01-01",
-      "score": "10",
-      "courses": ["Theory of Relativity"]
+      "startDate": "2021-09-022",
+      "endDate": null,
+      "score": "3.92/4.0",
+      "courses": [
+        "Data-driven Modeling & Controls",
+        "Optimization & Learning-based Control",
+        "Guidance, Navigation & Control of UAS",
+        "Uncertainty Analysis"
+      ]
+    },
+    {
+      "institution": "National Institute of Technology Rourkela",
+      "location": "Rourkela, Odisha, India",
+      "url": "https://www.nitrkl.ac.in/",
+      "area": "Mechanical Engineering",
+      "studyType": "B.Tech",
+      "startDate": "2017-07-01",
+      "endDate": "2021-05-01",
+      "score": "8.97/10",
+      "courses": [
+        "System Identification",
+        "Parameter Estimation",
+        "Control Systems"
+      ]
     }
   ],
   "awards": [
     {
-      "title": "Nobel Prize in Physics",
-      "date": "1921-11-01",
-      "awarder": "Royal Swedish Academy of Sciences",
-      "url": "https://www.nobelprize.org/prizes/physics/1921/einstein/biographical/",
-      "summary": "The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'"
+      "title": "First Place Propulsion Controls & Modeling Presentation",
+      "date": "2024-05-01",
+      "awarder": "EcoCAR EV Challenge Year 2",
+      "summary": "Ranked first among 15 North American universities for EV propulsion controls software development and validation."
+    },
+    {
+      "title": "Over the HIL Award",
+      "date": "2024-05-01",
+      "awarder": "EcoCAR EV Challenge Year 2",
+      "summary": "Best Hardware-in-the-Loop setup using Speedgoat hardware for EV propulsion supervisory controller testing."
     }
   ],
   "certificates": [
     {
-      "name": "Machine Learning",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-location-dot"
+      "name": "Wind Energy Participant",
+      "date": "",
+      "issuer": "",
+      "url": "",
+      "icon": "fa-solid fa-wind"
     },
     {
-      "name": "Quantum Computing",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-tag"
+      "name": "Equivalent Circuit Cell Model Simulation (with Honours)",
+      "date": "",
+      "issuer": "",
+      "url": "",
+      "icon": "fa-solid fa-bolt"
     },
     {
-      "name": "Quantum Information",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-envelope"
+      "name": "Manufacturing Engineer",
+      "date": "",
+      "issuer": "",
+      "url": "",
+      "icon": "fa-solid fa-industry"
     },
     {
-      "name": "Quantum Cryptography",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-hashtag"
-    },
-    {
-      "name": "Quantum Communication",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-calendar"
-    },
-    {
-      "name": "Quantum Teleportation",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-clipboard-check"
+      "name": "Learning How to Learn: Powerful Mental Tools",
+      "date": "",
+      "issuer": "",
+      "url": "",
+      "icon": "fa-solid fa-brain"
     }
   ],
   "publications": [
     {
-      "name": "Zur Elektrody/namik bewegter Körper",
-      "publisher": "Annalen der Physik",
-      "releaseDate": "1905-06-30",
-      "url": "https://en.wikisource.org/wiki/Translation:On_the_Electrodynamics_of_Moving_Bodies",
-      "summary": "It concerned an interpretation of the Michelson–Morley experiment and the properties of light and time. Special relativity incorporates the principle that the speed of light is the same for all inertial observers regardless of the state of motion of the source."
+      "name": "Sliding Mode Wheel Slip Control for Regenerative Braking of an All-Wheel-Drive Electric Vehicle",
+      "publisher": "ASME Letters in Dynamic Systems and Controls",
+      "releaseDate": "2023-10-01",
+      "url": "https://doi.org/10.1115/1.4064346",
+      "summary": "Developed nonlinear sliding-mode controller and validated in a MIL environment under noisy feedback."
     },
     {
-      "name": "Über einen die Erzeugung und Verwandlung des Lichtes betreffenden heuristischen Gesichtspunkt",
-      "publisher": "Annalen der Physik",
-      "releaseDate": "1905-03-18",
-      "url": "https://de.wikisource.org/wiki/Über_einen_die_Erzeugung_und_Verwandlung_des_Lichtes_betreffenden_heuristischen_Gesichtspunkt",
-      "summary": "In the second paper, he applied the quantum theory to light to explain the photoelectric effect. In particular, he used the idea of light quanta (photons) to explain experimental results, but stressed the importance of the experimental results. The importance of his work on the photoelectric effect earned him the Nobel Prize in Physics in 1921."
+      "name": "Thermal Reduced Order Modeling for System Analysis of EV Battery",
+      "publisher": "SAE WCX 2023",
+      "releaseDate": "2023-04-01",
+      "url": "https://doi.org/10.4271/2023-01-0931",
+      "summary": "Coupled electro-thermal simulation of Li-ion packs for fast-charging and thermal control evaluation."
     },
     {
-      "name": "Die Grundlage der allgemeinen Relativitätstheorie",
-      "publisher": "Annalen der Physik",
-      "releaseDate": "1916-03-20",
-      "url": "https://de.wikisource.org/wiki/Die_Grundlage_der_allgemeinen_Relativitätstheorie",
-      "summary": "The publication of the theory of general relativity made him internationally famous. He was professor of physics at the universities of Zurich (1909–1911) and Prague (1911–1912), before he returned to ETH Zurich (1912–1914)."
+      "name": "Analytical Study of Phase Change Heat Transfer in Biological Tissue using Coordinate Transformation Technique during Cryosurgery",
+      "publisher": "TFEC 2021",
+      "releaseDate": "2021-05-01",
+      "url": "https://doi.org/10.1615/TFEC2021.bio.036282",
+      "summary": "Combined analytical-numerical method for phase-change heat transfer in living tissue."
     }
   ],
   "skills": [
     {
-      "name": "Physics",
-      "level": "Master",
-      "icon": "fa-solid fa-hashtag",
+      "name": "Control & Modeling",
+      "level": "Advanced",
+      "icon": "fa-solid fa-project-diagram",
       "keywords": [
-        "Quantum Mechanics",
-        "Quantum Computing",
-        "Quantum Information",
-        "Quantum Cryptography",
-        "Quantum Communication",
-        "Quantum Teleportation"
+        "Model Predictive Control (MPC)",
+        "Sliding Mode Control",
+        "Hardware-in-Loop Testing",
+        "Reduced Order Modeling",
+        "System Identification"
+      ]
+    },
+    {
+      "name": "Machine Learning & Data-Driven",
+      "level": "Intermediate",
+      "icon": "fa-solid fa-robot",
+      "keywords": [
+        "Neural Networks",
+        "Koopman Operators",
+        "Probabilistic Modeling"
+      ]
+    },
+    {
+      "name": "Software & Tools",
+      "level": "Advanced",
+      "icon": "fa-solid fa-code",
+      "keywords": [
+        "MATLAB/Simulink",
+        "ANSYS Fluent & TwinBuilder",
+        "Python (NumPy, SciPy, PyTorch)",
+        "Simulink Real-Time"
       ]
     }
   ],
   "languages": [
     {
-      "language": "German",
-      "fluency": "Native speaker",
+      "language": "English",
+      "fluency": "Full Professional",
       "icon": ""
     },
     {
-      "language": "English",
-      "fluency": "Fluent",
+      "language": "Bengali",
+      "fluency": "Native or Bilingual",
+      "icon": ""
+    },
+    {
+      "language": "Hindi",
+      "fluency": "Limited Working",
       "icon": ""
     }
   ],
   "interests": [
     {
-      "name": "Physics",
-      "icon": "fa-solid fa-tag",
+      "name": "Autonomous Systems",
+      "icon": "fa-solid fa-car",
       "keywords": [
-        "Quantum Mechanics",
-        "Quantum Computing",
-        "Quantum Information",
-        "Quantum Cryptography",
-        "Quantum Communication",
-        "Quantum Teleportation"
+        "Robotics",
+        "Vehicle Dynamics",
+        "Perception"
+      ]
+    },
+    {
+      "name": "Energy Storage",
+      "icon": "fa-solid fa-battery-half",
+      "keywords": [
+        "Battery Thermal Management",
+        "Electro-thermal Modeling"
       ]
     }
   ],
-  "references": [
-    {
-      "name": "Professor John Doe",
-      "icon": "fa-solid fa-laptop",
-      "reference": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit. D"
-    },
-    {
-      "name": "Professor John Doe",
-      "icon": "fa-solid fa-thumbtack",
-      "reference": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit. D"
-    }
-  ],
+  "references": [],
   "projects": [
     {
-      "name": "Quantum Computing",
-      "summary": "Quantum computing is the use of quantum-mechanical phenomena such as superposition and entanglement to perform computation. Computers that perform quantum computations are known as quantum computers.",
-      "highlights": ["Quantum Teleportation", "Quantum Cryptography"],
-      "startDate": "2018-01-01",
-      "endDate": "2018-01-01",
-      "url": "https://example.com"
+      "name": "Energy Optimal Dual-Stage Adaptive Cruise Controller for EVs",
+      "summary": "Designed NMPC for longitudinal adaptive cruise to optimize energy efficiency and comfort under varying traffic.",
+      "highlights": [
+        "Real-time feasibility with MATLAB’s fmincon",
+        "Energy, comfort, and safety constraints compliance"
+      ],
+      "startDate": "2023-04-01",
+      "endDate": "2023-06-01",
+      "url": ""
+    },
+    {
+      "name": "Autonomous Aerial Landing of Quadcopter",
+      "summary": "Built MATLAB-Simulink simulation for UAV landing on moving target; developed trajectory generation and adaptive LQR controllers.",
+      "highlights": [
+        "Dynamically feasible trajectory planning",
+        "Adaptive LQR for stability under non-linear dynamics"
+      ],
+      "startDate": "2022-04-01",
+      "endDate": "2022-06-01",
+      "url": ""
     }
   ]
 }
