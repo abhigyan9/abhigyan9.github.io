@@ -8,7 +8,8 @@ nav_order: 6
 ---
 
 I have been a teaching assistant for the following courses:
-- Manufacturing Processes for Biomedical Engineering
-- Thermodynamics
-- Dynamics
-- Vehicle and Transportation Systems
+- Thermodynamics (Fall 2023, Spring 2025)
+- Dynamics (Winter 2022)
+- Vehicle and Transportation Systems (Spring 2024)
+- General Chemistry (Fall 2022, Winter 2023) 
+- Manufacturing Processes for Biomedical Engineering (Winter 2022)

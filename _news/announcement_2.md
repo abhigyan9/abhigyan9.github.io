@@ -1,33 +1,23 @@
 ---
 layout: post
-title: A long announcement with details
-date: 2015-11-07 16:11:00-0400
+title: Awards at EcoCAR Year 2 Competition
+date: 2024-05-22
 inline: false
 related_posts: false
 ---
 
-Announcements and news can be much longer than just quick inline posts. In fact, they can have all the features available for the standard blog posts. See below.
+Won Best Propulsion Controls & Modeling Presentation and the Over the HIL Awards at the EcoCAR EV Challenge Year 2 Competition in Phoenix, Arizona.
 
 ---
 
-Jean shorts raw denim Vice normcore, art party High Life PBR skateboard stumptown vinyl kitsch. Four loko meh 8-bit, tousled banh mi tilde forage Schlitz dreamcatcher twee 3 wolf moon. Chambray asymmetrical paleo salvia, sartorial umami four loko master cleanse drinking vinegar brunch. <a href="https://www.pinterest.com">Pinterest</a> DIY authentic Schlitz, hoodie Intelligentsia butcher trust fund brunch shabby chic Kickstarter forage flexitarian. Direct trade <a href="https://en.wikipedia.org/wiki/Cold-pressed_juice">cold-pressed</a> meggings stumptown plaid, pop-up taxidermy. Hoodie XOXO fingerstache scenester Echo Park. Plaid ugh Wes Anderson, freegan pug selvage fanny pack leggings pickled food truck DIY irony Banksy.
+# 1st Place - Propulsion Controls & Modeling Presentation
+Presented to industry professionals from General Motors, MathWorks, Argonne National Lab, US Department of Energy, Bosch, dSPACE, NXP and more regarding development and validation of EV propulsion controls software. Ranked first place amongst 15 universities across North America in the EcoCAR EV Challenge - Year 2.
+![1st Place - Propulsion Controls & Modeling Presentation presented by Jim Link of Denso Corporation](/assets/img/EcoCAR_Y2_AwardPCMPresentation.jpg)
 
-#### Hipster list
+# 1st Place Over the HIL Award
+Ranked first place among 15 universities from across North America in the EcoCAR EV Challenge - Year 2, for the best Hardware-in-the-Loop setup built using Speedgoat hardware for testing and validation of EV Propulsion Supervisory Controller code.
+![1st Place Over the HIL Award presented by Sam Reinsel of The MathWorks Inc.](/assets/img/EcoCAR_Y2_AwardHIL.jpg)
 
-<ul>
-    <li>brunch</li>
-    <li>fixie</li>
-    <li>raybans</li>
-    <li>messenger bag</li>
-</ul>
-
-Hoodie Thundercats retro, tote bag 8-bit Godard craft beer gastropub. Truffaut Tumblr taxidermy, raw denim Kickstarter sartorial dreamcatcher. Quinoa chambray slow-carb salvia readymade, bicycle rights 90's yr typewriter selfies letterpress cardigan vegan.
-
----
-
-Pug heirloom High Life vinyl swag, single-origin coffee four dollar toast taxidermy reprehenderit fap distillery master cleanse locavore. Est anim sapiente leggings Brooklyn ea. Thundercats locavore excepteur veniam eiusmod. Raw denim Truffaut Schlitz, migas sapiente Portland VHS twee Bushwick Marfa typewriter retro id keytar.
-
-> We do not grow absolutely, chronologically. We grow sometimes in one dimension, and not in another, unevenly. We grow partially. We are relative. We are mature in one realm, childish in another.
-> —Anais Nin
-
-Fap aliqua qui, scenester pug Echo Park polaroid irony shabby chic ex cardigan church-key Odd Future accusamus. Blog stumptown sartorial squid, gastropub duis aesthetic Truffaut vero. Pinterest tilde twee, odio mumblecore jean shorts lumbersexual.
+# 3rd Place - Model Based Design Award
+Ranked third place among 15 universities from across North America in the EcoCAR EV Challenge for the Model Based Design Award. Presented to engineers from MathWorks on the implementation of Model Based Design and Model Based Systems Engineering concepts in the development, testing and validation of the Propulsion Supervisory Controller and associated data-driven plant modeling for the Cadillac LYRIQ EV, using MathWorks tools.
+![3rd Place - Model Based Design Award presented by Sam Reinsel of The MathWorks Inc.](/assets/img/EcoCAR_Y2_AwardMBD.jpg)
