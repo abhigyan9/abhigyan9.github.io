@@ -372,11 +372,8 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
-          title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
-          description: "",
-          section: "News",},{id: "news-awards-at-ecocar-year-2-competition",
-          title: 'Awards at EcoCAR Year 2 Competition',
+            },},{id: "news-multiple-awards-at-ecocar-ev-challenge-year-2-competition",
+          title: 'Multiple awards at EcoCAR EV Challenge Year 2 Competition',
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/announcement_2/";
