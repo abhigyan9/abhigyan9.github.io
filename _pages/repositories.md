@@ -7,12 +7,12 @@ nav: false
 nav_order: 4
 ---
 
-{% if site.data.repositories.github_users %}
+{% if site.data.repositories.abhigyan9 %}
 
 ## GitHub users
 
 <div class="repositories d-flex flex-wrap flex-md-row flex-column justify-content-between align-items-center">
-  {% for user in site.data.repositories.github_users %}
+  {% for user in site.data.repositories.abhigyan9 %}
     {% include repository/repo_user.liquid username=user %}
   {% endfor %}
 </div>
@@ -20,8 +20,8 @@ nav_order: 4
 ---
 
 {% if site.repo_trophies.enabled %}
-{% for user in site.data.repositories.github_users %}
-{% if site.data.repositories.github_users.size > 1 %}
+{% for user in site.data.repositories.abhigyan9 %}
+{% if site.data.repositories.abhigyan9.size > 1 %}
 
   <h4>{{ user }}</h4>
   {% endif %}
