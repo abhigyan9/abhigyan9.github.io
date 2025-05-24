@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Awards at EcoCAR Year 2 Competition
+title: Multiple awards at EcoCAR EV Challenge Year 2 Competition
 date: 2024-05-22
 inline: false
 related_posts: false
