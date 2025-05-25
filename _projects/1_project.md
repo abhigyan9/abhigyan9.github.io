@@ -4,7 +4,7 @@ title: Autonomous Aerial Landing of Quadcopter
 description: Proof-of-concept simulation of a quadcopter autonomously landing on a moving carrier ship using analytical trajectory planning and adaptive control.
 img: assets/img/275_BlockDiagram.png
 importance: 1
-category: work
+category: academic projects
 related_publications: false
 ---
 
